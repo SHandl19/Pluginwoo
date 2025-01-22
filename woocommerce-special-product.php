@@ -3,7 +3,7 @@
  * Plugin Name: WooCommerce Spezial-Produkt
  * Plugin URI:  https://deine-webseite.de
  * Description: Fügt eine neue WooCommerce-Produktart mit individuellen Varianten & Swatches hinzu.
- * Version: 1.0.0
+ * Version: 1.1.0
  * Author: Dein Name
  * License: GPL v2 or later
  */
